@@ -22,6 +22,9 @@ a = [[3,2,5],[1,1,2],[3,3,6]]
 b = np.linalg.matrix_rank(a)
 print(b)
 ```
+
+
+
 ## Output:
 
 ![image](https://github.com/Ajith1413/RANK-OF-A-MATRIX/assets/139842524/6287c5bf-417d-4df6-a1b4-2e11dbf39a22)
