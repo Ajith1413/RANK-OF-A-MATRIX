@@ -37,8 +37,8 @@ print(b)
 
 
 ## Output:
+![image](https://github.com/Ajith1413/RANK-OF-A-MATRIX/assets/139842524/5b0ff345-3d08-4dda-a8e9-c267ed147a85)
 
-![image](https://github.com/Ajith1413/RANK-OF-A-MATRIX/assets/139842524/6287c5bf-417d-4df6-a1b4-2e11dbf39a22)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
