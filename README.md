@@ -25,17 +25,6 @@ print(b)
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Output:
 ![image](https://github.com/Ajith1413/RANK-OF-A-MATRIX/assets/139842524/5b0ff345-3d08-4dda-a8e9-c267ed147a85)
 
